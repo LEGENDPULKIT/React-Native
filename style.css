@@ -1,0 +1,70 @@
+h1 {
+    color:  blue;
+    
+}
+.header *
+{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+
+.header 
+{
+    background-color: #fff8dc;
+    display: flex;
+
+    justify-content: flex-start;
+}
+
+
+.title
+{
+    border: solid;
+   
+    display: flex; 
+    justify-content: flex-start;
+    background-color: rgb(8, 8, 8);
+   
+}
+
+.first
+{
+    background-color: burlywood;
+}
+
+.second
+{
+    background-color: coral;
+}
+
+.third
+{
+    background-color: chocolate;
+}
+
+.fourth
+{
+    background-color: burlywood;
+}
+
+.fifth
+{
+    background-color: coral;
+}
+
+.sixth
+{
+    background-color: chocolate;
+}
+
+.question
+{
+    background-color: black;
+}
+
+.about
+{
+    background-color: orange;
+    
+}
